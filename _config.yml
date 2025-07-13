@@ -109,3 +109,13 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Completed Challenges"
+    url: "/labs/"
+  - title: "Categories"
+    url: "/categories/"
+  - title: "Tags"
+    url: "/tags/"
