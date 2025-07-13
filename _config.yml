@@ -57,8 +57,12 @@ plugins:
 
 author:
   name   : "Gilks Moseti"
-  avatar : "/assets/images/bio2-photo.jpeg"
-  bio    : "Cloud & Cloud Security Specialist | SC-900 Certified | Microsoft Security Tools | Data Protection & Compliance"
+  avatar : "/assets/images/web1,png"
+  bio    : |
+    Cloud & Cloud Security Specialist  
+    SC-900 Certified  
+    Microsoft Security Tools  
+    Data Protection & Compliance 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
