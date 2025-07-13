@@ -1,7 +1,7 @@
 ---
-title: "Challenges by Category"
-layout: Completed Challenges
-permalink: /labs/
+title: "Posts by Category"
+layout: categories
+permalink: /categories/
 author_profile: true
 ---
 
